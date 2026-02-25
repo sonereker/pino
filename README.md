@@ -24,7 +24,13 @@ cd pino
 go build -o pino
 ```
 
-## Usage
+## Usage with AI agents
+
+Once `pino` is installed, just ask your AI agent (Claude Code, Cursor, etc.) to save the current prompt and plan to pino. The agent can call `pino push` directly — no need to leave the conversation. Later you can ask the agent to search your saved pinos, or browse them yourself in the TUI.
+
+Example: *"Save this prompt and plan to pino"* or *"Search my pinos for auth migration"*.
+
+## CLI
 
 ### TUI
 
