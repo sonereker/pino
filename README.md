@@ -4,6 +4,10 @@ A TUI app for saving and browsing prompts and plans. Built with [Bubble Tea](htt
 
 Pinos are stored as individual markdown files in `~/.pino/`.
 
+## Why
+
+Sometimes you have an idea of how to do something — you write a prompt, maybe get a plan back — but you're not ready to act on it yet. You don't want to lose it either. Pino is the safe place to stash those prompts and plans so you can come back to them later.
+
 ## Install
 
 ```bash
